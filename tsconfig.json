@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES2017",
+    "noImplicitAny": true,
+    "allowJs": false,
+    "sourceMap": true,
+    "module": "ES2022",
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "wwwroot", "types/**/*.spec.ts"],
+  "include": ["src/**/*"]
+}
